@@ -1,4 +1,5 @@
 panda
 slon
-lev
+tiger
 žirafa
+
