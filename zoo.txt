@@ -2,4 +2,5 @@ panda 🐼
 slon 🐘
 tiger 🐯
 žirafa 🦒
+krokodil 🐊
 
