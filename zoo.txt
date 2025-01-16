@@ -1,5 +1,5 @@
-panda
-slon
-tiger
-žirafa
+panda 🐼
+slon 🐘
+tiger 🐯
+žirafa 🦒
 
